@@ -1,0 +1,10 @@
+# Salesforce cache and configuration
+.sf/
+.sfdx/
+.localdevserver/
+
+# Node modules (if you have them for LWC testing)
+node_modules/
+
+# OS generated files
+.DS_Store
